@@ -70,7 +70,8 @@ class JsonWebTokenTest extends PHPUnit_Framework_TestCase
             'https://example.com',
             $client_id,
             $nonce,
-            $secret
+            $secret,
+            array('HS256')
         );
     }
 }
