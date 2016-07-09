@@ -23,15 +23,9 @@ Create composer.json.
 
 ```
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kura-lab/cose-php"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
-        "kura-lab/cose-php": "dev-master"
+        "kura-lab/cose-php": "1.*"
     }
 }
 ```
