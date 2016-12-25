@@ -1,12 +1,15 @@
 # cose-php
 Constrained Object Signing and Encryption for PHP
 
+[![Packagist](https://img.shields.io/packagist/v/kura-lab/cose-php.svg)](https://packagist.org/packages/kura-lab/cose-php)
+
 ### Specification
 
 * https://datatracker.ietf.org/doc/draft-bormann-jose-cose/
 
 ### Requirements
 
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.4.0-8892BF.svg?style=flat-square)](https://php.net/)
 * PHP 5.4.0 or higher.
 
 ### Installation
