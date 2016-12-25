@@ -2,6 +2,7 @@
 Constrained Object Signing and Encryption for PHP
 
 [![Packagist](https://img.shields.io/packagist/v/kura-lab/cose-php.svg)](https://packagist.org/packages/kura-lab/cose-php)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/kura-lab/cose-php/blob/master/LICENSE)
 
 ### Specification
 
